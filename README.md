@@ -17,3 +17,9 @@
 </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliafungaes&layout=compact&theme=dracula)
+
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/murilobbonvechio/murilobbonvechio/blob/output/github-snake-dark.svg)
+</div>
