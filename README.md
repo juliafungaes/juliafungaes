@@ -4,6 +4,11 @@
 
 💻 Interessada em desenvolvimento Back-end
 
+🌱 Atualmente aprendendo
+- Lógica de Programação
+- Redes de Computadores
+- Circuitos Digitais
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=juliafungaes&show_icons=true&theme=dracula"
