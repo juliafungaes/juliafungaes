@@ -29,5 +29,5 @@
 <!-- Snake Animation -->
 <div align="center">
     
-  ![snake gif](https://github.com/murilobbonvechio/murilobbonvechio/blob/output/github-snake-dark.svg)
-</div>
+
+![Snake animation](https://raw.githubusercontent.com/juliafungaes/juliafungaes/output/github-snake-dark.svg)
