@@ -10,7 +10,9 @@
 - Circuitos Digitais
 
 🎯 Objetivos
--Aprender e me aprofundar em Java e PHP, desenvolvendo projetos que contribuam para minha evolução como desenvolvedora e para a construção de uma base sólida em programação.
+
+- Aprender e me aprofundar em Java e PHP, desenvolvendo projetos que contribuam para minha evolução como desenvolvedora
+  e para a construção de uma base sólida em programação.
 
 <picture>
   <source
