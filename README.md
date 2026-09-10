@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=juliafungaes&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliafungaes&layout=compact&theme=dracula)
+
 
  <a href="https://www.linkedin.com/in/julia-fungaes-4236683b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
